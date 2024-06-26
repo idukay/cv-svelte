@@ -1,0 +1,235 @@
+{
+  "name": "Roberto Antonio",
+  "lastName": "Ruiz Chivico",
+  "birthDate": "1988-02-02",
+  "profilePicture": "roberto_ruiz.jpg",
+  "addressInfo": {
+    "address": "",
+    "city": "Quito",
+    "country": "Ecuador"
+  },
+  "contactInfo": {
+    "email": "rarc88@gmail.com",
+    "phone": "(+593) 0983847595"
+  },
+  "professionalInfo": {
+    "profession": "Ing. de sistemas",
+    "position": "Desarrollador de software fullstack",
+    "summary": "<p>Soy un Ingeniero de Sistemas con más de 4 años de experiencia en desarrollo de software, gran parte de la cual ha sido en trabajo remoto. Mi especialidad se centra en el desarrollo web Full-Stack, utilizando tecnologías como Javascript, Typescript, React, Vue, Express, NestJS, Laravel, Java, y bases de datos como Postgres, Mongo, con un enfoque más fuerte en el backend. También he desarrollado aplicaciones móviles utilizando el framework Flutter.</p><p>Destaco en entornos colaborativos y tengo experiencia liderando pequeños equipos.</p><p>Continúo mi educación en áreas que me permiten mejorar la calidad de mi trabajo, como DevOps con Docker y programación Blockchain, tecnologías por las cuales siento una gran pasión y veo un tremendo potencial en el futuro.</p>"
+  },
+  "education": {
+    "degree": "Ingeniería de sistemas",
+    "university": "Universidad Nacional Experimental Politécnica de la Fuerza Armada",
+    "startYear": 2005,
+    "startMonth": 9,
+    "endYear": 2010,
+    "endMonth": 11,
+    "city": "Anzoátegui",
+    "country": "Venezuela"
+  },
+  "workExperience": [
+    {
+      "company": "Konnect",
+      "position": "Desarrollador fullstack",
+      "startYear": 2019,
+      "startMonth": 4,
+      "endYear": 2020,
+      "endMonth": 3,
+      "city": "Lima",
+      "country": "Perú"
+    },
+    {
+      "company": "Sidesoft Cia. Ltda",
+      "position": "Desarrollador fullstack",
+      "startYear": 2020,
+      "startMonth": 2,
+      "endYear": 2023,
+      "endMonth": 6,
+      "city": "Quito",
+      "country": "Ecuador"
+    },
+    {
+      "company": "Urban Lab LLC",
+      "position": "Desarrollador fullstack",
+      "startYear": 2023,
+      "startMonth": 7,
+      "city": "Quito",
+      "country": "Ecuador"
+    }
+  ],
+  "lastCertifications": [
+    {
+      "order": 1,
+      "name": "Docker",
+      "institution": "OpenBootcamp",
+      "year": 2023
+    },
+    {
+      "order": 2,
+      "name": "Django",
+      "institution": "OpenBootcamp",
+      "year": 2023
+    },
+    {
+      "order": 3,
+      "name": "Python",
+      "institution": "OpenBootcamp",
+      "year": 2023
+    },
+    {
+      "order": 4,
+      "name": "JavaScript: TDD y pruebas unitarias avanzado",
+      "institution": "LinkedIn",
+      "year": 2023
+    },
+    {
+      "order": 5,
+      "name": "Despliegue de Docker en AWS",
+      "institution": "LinkedIn",
+      "year": 2022
+    },
+    {
+      "order": 6,
+      "name": "React Hooks esencial",
+      "institution": "LinkedIn",
+      "year": 2022
+    },
+    {
+      "order": 7,
+      "name": "React Redux esencial",
+      "institution": "LinkedIn",
+      "year": 2022
+    },
+    {
+      "order": 8,
+      "name": "Sistemas de Gestión de Seguridad de la Información",
+      "institution": "Northeastern University",
+      "year": 2022
+    }
+  ],
+  "softSkills": [
+    "Adaptabilidad",
+    "Aprendizaje continuo",
+    "Creatividad",
+    "Comunicación efectiva",
+    "Empatía",
+    "Liderazgo",
+    "Pensamiento crítico",
+    "Proactividad",
+    "Resolución de problemas",
+    "Trabajo en equipo"
+  ],
+  "skills": [
+    {
+      "category": "Frontend",
+      "technologies": [
+        "HTML",
+        "JavaScript",
+        "CSS",
+        "React",
+        "Next.js",
+        "Vue.js",
+        "Svelte",
+        "Angular",
+        "TypeScript"
+      ]
+    },
+    {
+      "category": "Backend",
+      "technologies": [
+        "Node.js",
+        "Express.js",
+        "NestJS",
+        "ElysiaJS",
+        "PHP",
+        "Laravel",
+        "Python",
+        "Django"
+      ]
+    },
+    {
+      "category": "Móvil",
+      "technologies": [
+        "Flutter"
+      ]
+    },
+    {
+      "category": "Base de datos",
+      "technologies": [
+        "MongoDB",
+        "PostgreSQL",
+        "MySQL",
+        "SQLite",
+        "Prisma"
+      ]
+    },
+    {
+      "category": "Testing",
+      "technologies": [
+        "Jest",
+        "TDD"
+      ]
+    },
+    {
+      "category": "Infraestructura",
+      "technologies": [
+        "Docker",
+        "AWS",
+        "DigitalOcean",
+        "Nginx",
+        "Git",
+        "GitHub",
+        "GitLab",
+        "Bitbucket",
+        "Jenkins",
+        "Circle CI"
+      ]
+    },
+    {
+      "category": "Blockchain",
+      "technologies": [
+        "Truffle Suite",
+        "Ganache",
+        "Hardhat",
+        "Solidity",
+        "Web3.js",
+        "Ether.js",
+        "OpenZeppelin"
+      ]
+    },
+    {
+      "category": "Otros",
+      "technologies": [
+        "Jira",
+        "OpenProject"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "level": "Nativo"
+    },
+    {
+      "language": "Inglés",
+      "level": "Intermedio"
+    }
+  ],
+  "socialNetworks": {
+    "linkedIn": "https://www.linkedin.com/in/rarc88",
+    "gitHub": "https://github.com/rarc88",
+    "talentId": "https://talently.tech/ly/r-ruiz"
+  },
+  "references": [
+    {
+      "name": "Fabio Paredes",
+      "profession": "",
+      "phone": ""
+    },
+    {
+      "name": "Luis Mosquera",
+      "profession": "",
+      "phone": ""
+    }
+  ]
+}

@@ -1,2 +1,5 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<h1>Templates</h1>
+
+<ol>
+  <li><a href="/template-1">Template 1</a></li>
+</ol>
